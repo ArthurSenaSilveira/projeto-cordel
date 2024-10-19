@@ -38,7 +38,7 @@ header p {
     padding-bottom: 50px;
 }
 
-a {
+header a {
     text-decoration: none;
     color: white;
     font-weight: bold;
@@ -85,4 +85,10 @@ footer {
     padding: 10px;
     color: white;
     text-align: center;
+}
+footer a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-family: var(--font3);
 }
